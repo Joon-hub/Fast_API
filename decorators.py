@@ -1,4 +1,3 @@
-
 # defining a decorator
 
 def my_decorator(func):
